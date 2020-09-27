@@ -2,7 +2,6 @@
 
 ## Running the app
   Open the project in Android Studio
-  
     - Build the app
     - Run the app (Simulator/ Real Device - Targeted for API 22 Nexus 5 1920x1080)
 
